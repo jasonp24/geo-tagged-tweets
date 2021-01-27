@@ -1,4 +1,4 @@
 # geo-tagged-tweets
 ![image](img/exported_map.png)
 
-
+In this repository, I gained experience in collecting geo-tagged Twitter data using an API-based crawler. I harvested data based on the keyword "Biden" to see where this keyword was found most often to be tweeted in the United States. I chose this keyword due to the recent political shift in presidents in the United States between former President Trump and newly-elected President Joe Biden. After mapping the geo-location of the tweets and producing a web-based map product, I found it most interesting how there was more clusters of tweets about Biden coming out of the east coast of the U.S. For example, I found the cluster of data found in Florida, which is known historically as a key battleground state, to be quite interesting, whereas there was less tweets about Biden coming out of Washington state. Overall,l this map helped me gain an understanding of how to use Twitter API to harvest and visualize data. In the future, this methodology can be used to include more keyword filters to gain a sense of the trending topics in the United States from a geographic perspective.
